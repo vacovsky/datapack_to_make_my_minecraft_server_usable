@@ -4,11 +4,11 @@
     "crafter": "farmer_crafting",
     "inputs": [
       {
-        "count":7,
-        "item": "minecraft:stick"
-      }
+        "count": 2,
+        "item": "minecraft:small_dripleaf"
+      },
     ],
     "intermediate": "minecraft:air",
     "min-building-level": 1,
-    "result": "minecraft:dead_bush"
+    "result": "minecraft:big_dripleaf"
   }
