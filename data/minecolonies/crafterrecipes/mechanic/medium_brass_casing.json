@@ -1,6 +1,6 @@
 {
     "type": "recipe",
-    "count": 6,
+    "count": 5,
     "crafter": "mechanic_crafting",
     "inputs": [
       {
@@ -10,5 +10,5 @@
     ],
     "intermediate": "minecraft:air",
     "min-building-level": 4,
-    "result": "scguns:medium_brass_casing"
+    "result": "scguns:large_brass_casing"
   }
