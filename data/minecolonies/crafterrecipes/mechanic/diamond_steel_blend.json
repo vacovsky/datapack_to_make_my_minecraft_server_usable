@@ -1,26 +1,26 @@
 {
     "type": "recipe",
-    "count": 8,
-    "crafter": "crusher_custom",
+    "count": 3,
+    "crafter": "mechanic_custom",
     "inputs": [
       {
         "count": 1,
-        "item": "scguns:phosphor_dust"
+        "item": "minecraft:redstone"
       },
       {
         "count": 1,
-        "item": "minecraft:sculk"
+        "item": "scguns:raw_anthralite"
       },
       {
         "count": 1,
-        "item": "scguns:sulfur_dust"
+        "item": "minecraft:diamond"
       },
       {
         "count": 1,
-        "item": "minecraft:charcoal"
+        "item": "minecraft:lapis_lazuli"
       }
     ],
     "intermediate": "minecraft:air",
     "min-building-level": 2,
-    "result": "scguns:peal"
+    "result": "scguns:diamond_steel_blend"
   }

@@ -1,11 +1,11 @@
 {
     "type": "recipe",
     "count": 9,
-    "crafter": "crusher_custom",
+    "crafter": "mechanic_custom",
     "inputs": [
       {
         "count": 1,
-        "item": "minecraft:scguns:nitro_powder"
+        "item": "scguns:nitro_powder"
       }
     ],
     "intermediate": "minecraft:air",

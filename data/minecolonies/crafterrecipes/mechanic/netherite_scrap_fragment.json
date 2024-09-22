@@ -1,7 +1,7 @@
 {
     "type": "recipe",
     "count": 8,
-    "crafter": "crusher_custom",
+    "crafter": "mechanic_custom",
     "inputs": [
       {
         "count": 1,
