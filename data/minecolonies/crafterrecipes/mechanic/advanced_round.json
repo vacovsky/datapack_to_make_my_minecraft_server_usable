@@ -1,7 +1,7 @@
 {
     "type": "recipe",
     "count": 1,
-    "crafter": "mechanic_crafting",
+    "crafter": "mechanic_custom",
     "inputs": [
       {
         "item": "scguns:medium_brass_casing",
