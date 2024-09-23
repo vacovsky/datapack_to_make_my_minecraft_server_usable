@@ -1,7 +1,7 @@
 {
     "type": "recipe",
     "count": 5,
-    "crafter": "mechanic_custom",
+    "crafter": "blacksmith_crafting",
     "inputs": [
       {
         "count": 1,
