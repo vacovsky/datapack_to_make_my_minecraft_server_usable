@@ -1,7 +1,7 @@
 {
   "type": "recipe",
   "count": 12,
-  "crafter": "blacksmith_crafting",
+  "crafter": "mechanic_custom",
   "inputs": [
     {
       "item": "minecraft:iron_ingot",

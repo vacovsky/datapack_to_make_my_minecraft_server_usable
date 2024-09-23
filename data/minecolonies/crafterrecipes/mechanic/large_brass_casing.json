@@ -1,14 +1,14 @@
 {
     "type": "recipe",
     "count": 5,
-    "crafter": "blacksmith_crafting",
+    "crafter": "mechanic_custom",
     "inputs": [
       {
         "count": 1,
-        "item": "create:copper_ingot"
+        "item": "create:brass_ingot"
       }
     ],
     "intermediate": "minecraft:air",
     "min-building-level": 4,
-    "result": "scguns:medium_copper_casing"
+    "result": "scguns:large_brass_casing"
   }
